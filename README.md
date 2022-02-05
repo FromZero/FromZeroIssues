@@ -20,7 +20,7 @@
 <p>If the issue is related to your sensitive account information or billing please reach out to us directly via Discord or email rather than making a post.</p>
 <p>You may include links to screenshots or screen recordings hosted on Google Drive, Dropbox, etc. in your posts if you can't be bothered to figure out how to embed them in the post itself.<br /><strong>Make sure their visibility/sharing is set to public so we can see them!</strong></p>
 <p>If you are reporting a piracy concern with our books, please send a DM including a link to the host site to Melanie#2745 on Discord and she will handle it.</p>
-<br><br>
+<br>
 <p>Please use the appropriate category for your post, and include in your post the following for each type:</p>
 
 ### Issue Reports
